@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/italootavio26/italootavio26/blob/output/github-contribution-grid-snake.svg)
-
 # 👋 Hello, Devs!
 Tenho 18 anos, atualmente moro em Santos-SP, sou apaixonado por programação e linguagens complexas! sou iniciante no universo da programação. me considero desenvolvedor Full-Stack, e quanto mais eu aprendo, mais eu passo raiva, mas eu amo cada linha de código!
 
