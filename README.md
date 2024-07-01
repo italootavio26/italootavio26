@@ -1,6 +1,8 @@
 # 👋 Hello, Devs!
 Tenho 18 anos, atualmente moro em Santos-SP, sou apaixonado por programação e linguagens complexas! sou iniciante no universo da programação. me considero desenvolvedor Full-Stack, e quanto mais eu aprendo, mais eu passo raiva, mas eu amo cada linha de código!
 
+<img src="/assets/img/tenor.gif">
+
 ## Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
